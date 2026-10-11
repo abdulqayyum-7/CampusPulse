@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo-event-2026",
+    "category": "event",
+    "title": "Student Research and Innovation Showcase",
+    "body": "Meet student teams, explore research posters, and hear short presentations from across campus. Registration details are available from the Academic Office.",
+    "deadline": "2026-11-05T09:00:00.000Z",
+    "audienceRoles": ["student", "teaching", "nonTeaching", "academic", "administrative", "finance", "security", "cleaning"],
+    "createdAt": 1791806400000,
+    "authorityId": "u_acad",
+    "authorityName": "Academic Office",
+    "authorityRole": "academic"
+  },
+  {
+    "id": "demo-scholarship-2026",
+    "category": "scholarship",
+    "title": "Need-Based Scholarship Applications",
+    "body": "Eligible students may submit applications with supporting documents through the Financial Aid Office. Review the university notice board for the required forms and eligibility criteria.",
+    "deadline": "2026-10-30T18:00:00.000Z",
+    "audienceRoles": ["student", "academic", "administrative", "finance"],
+    "createdAt": 1791716400000,
+    "authorityId": "u_fin",
+    "authorityName": "Finance Office",
+    "authorityRole": "finance"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "cui-connect-backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": { "start": "node src/server.js", "test": "node test.js" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": { "socket.io-client": "^4.7.5" }
+}
