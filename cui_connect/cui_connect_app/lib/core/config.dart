@@ -5,7 +5,7 @@ const kBlue = Color(0xFF0B4F9E);
 
 class Config {
   // Hardcoded for physical-device testing. Change if your PC's IP changes.
-  static String baseUrl = 'http://192.168.137.175:3000';
+  static String baseUrl = 'http://192.168.2.114:3000';
 }
 
 const kRoles = ['student', 'teaching', 'nonTeaching', 'finance', 'academic', 'administrative', 'security', 'cleaning', 'admin'];
